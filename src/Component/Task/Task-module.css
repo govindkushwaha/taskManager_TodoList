@@ -1,7 +1,7 @@
 .tasks {
   background-color: rgb(255, 242, 242);
 
-  height: 100vh;
+  height: 96vh;
   width: calc(922px - 266px);
   padding: 74px 20px 0;
 }
